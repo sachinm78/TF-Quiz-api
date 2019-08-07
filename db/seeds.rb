@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+# categories = Category.create([{ name: 'sports'}, { name: 'technology'}, { name: 'pop culture'}, { name: 'geography'}, { name: 'science'}])
+
+# questions = Question.create([{ text: 'An NHL game has 4 periods.', answer: , category_id: 1,  }, {}])
